@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,500&family=Poppins:wght@300&family=Preahvihear&family=Roboto:wght@300;400&display=swap');
+
+.whole{
+    border:1px solid lightgray;
+    width: 340px;
+    margin: 100px auto;
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    border-radius: 20px;
+
+}
+ .image{
+    width:100%;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    
+}
+.content i{
+    position: absolute;
+    padding-left: 30px;
+    padding-top: 2px;
+    color: rgb(115, 114, 114);
+
+}
+.content .heading{
+    font-size: 15px;
+    color: rgb(115, 114, 114);
+    font-weight: 500;
+    padding-left: 55px;
+    padding-right: 30px;
+ 
+}
+.content .para{
+    padding-left: 30px;
+    text-transform: capitalize;
+    font-size: larger;
+    padding-right: 30px;
+
+}
+.content .para-content{
+
+    padding-left: 30px;
+    color: rgb(115, 114, 114);
+    padding-right: 30px;
+}
+
+.footer{
+    margin-bottom: 30px;
+    margin-left: 30px;
+    padding: 10px;
+    border:1px solid lightgray;
+    border-radius: 10px;
+    color: rgb(66 133 244);
+    width: 50%;
+    background-color: white;
+    font-weight: 450;
+    
+}

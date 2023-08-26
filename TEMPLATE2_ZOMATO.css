@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,500&family=Poppins:wght@300&family=Preahvihear&family=Roboto:wght@300;400&display=swap');
+
+
+
+.whole{
+    border: 1px solid rgb(191, 189, 189);
+    margin: 90px auto;
+    width: 400px;
+    border-radius: 15px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.whole .img{
+    width: 100%;
+    border-radius: 13px;
+
+}
+
+.child{
+    position: relative;
+}
+
+.child .child-img{
+    position: absolute;
+    border: 1px solid rgb(1 117 191);
+    border: none;
+    color: white;
+    background-color: rgb(1 117 191);
+    bottom:0;
+    padding: 1px;
+    margin: 10px;
+    margin-left: 0px;
+    margin-bottom: 15px;
+}
+
+.child .promoted{
+    
+        position: absolute;
+        border: 1px solid;
+        border: none;
+        color: rgb(255, 255, 255);
+        background-color: rgba(201, 199, 199, 0.9);
+        bottom:200px;
+        padding:4px;
+        margin-top: 0px;
+        margin-left: 90px;
+        font-size: 9px;
+        margin-left: 10px;
+        margin-bottom: 15px;
+        border-radius: 4px;
+}
+
+.child .time{
+    position: absolute;
+    border: 1px solid;
+    border: none;
+    color: rgb(101, 100, 100);
+    background-color: rgb(255, 255, 255);
+    bottom:0;
+    right: 0;
+    padding: 3px;
+    margin: 10px;
+    font-size: 15px;
+    margin-left: 0px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    
+    
+
+}
+
+.whole .heading{
+    font-size: 20px;
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+
+.whole .content{
+    color: gray;
+    margin-top: 4px;
+}
+
+ .maxsafety{
+    width: 50px;
+    height: 20px;
+    position: absolute;
+    padding-top: 17px;
+    
+
+}
+
+.footer .bottom-footer{
+    border-top: 1px solid rgb(191, 189, 189);
+    padding-top: 7px;
+    padding-left: 60px;
+    color: gray;
+    position: relative;
+    margin-bottom: 0px;
+}
